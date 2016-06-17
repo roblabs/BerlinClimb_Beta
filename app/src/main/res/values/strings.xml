@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">Überhang</string>
+    <string name="title_activity_maps">Spots entdecken</string>
+    <string name="title_activity_main">Spots entdecken</string>
+    <string name="action_settings">Einstellungen</string>
+    <string name="title_activity_overwiev">Spotübersicht</string>
+    <string name="large_text">"Kontakt und Impressum"</string>
+    <string name="text_over_main">
+        <![CDATA[
+        <br/>
+Angaben
+gem&auml;&szlig; &sect; 5 TMG<br/>
+<br/>
+Anonymous
+<br/>
+<br/>
+Kontakt:<br/>
+E-Mail:
+anonymous@t-online.de.de<br/>
+<br/>
+<br/>
+<b>Haftung f&uuml;r Inhalte</b><br/>
+<br/>
+Die
+Inhalte unserer Seiten wurden mit gr&ouml;&szlig;ter Sorgfalt
+erstellt. F&uuml;r die Richtigkeit, Vollst&auml;ndigkeit und
+Aktualit&auml;t der Inhalte k&ouml;nnen wir jedoch keine Gew&auml;hr
+&uuml;bernehmen. Als Diensteanbieter sind wir gem&auml;&szlig; &sect;
+7 Abs.1 TMG f&uuml;r eigene Inhalte auf diesen Seiten nach den
+allgemeinen Gesetzen verantwortlich. Nach &sect;&sect; 8 bis 10 TMG
+sind wir als Diensteanbieter jedoch nicht verpflichtet, &uuml;bermittelte
+oder gespeicherte fremde Informationen zu &uuml;berwachen oder nach
+Umst&auml;nden zu forschen, die auf eine rechtswidrige T&auml;tigkeit
+hinweisen. Verpflichtungen zur Entfernung oder Sperrung der Nutzung
+von Informationen nach den allgemeinen Gesetzen bleiben hiervon
+unber&uuml;hrt. Eine diesbez&uuml;gliche Haftung ist jedoch erst ab
+dem Zeitpunkt der Kenntnis einer konkreten Rechtsverletzung m&ouml;glich.
+Bei Bekanntwerden von entsprechenden Rechtsverletzungen werden wir
+diese Inhalte umgehend entfernen.<br/>
+<br/><b>
+Haftung f&uuml;r
+Links</b><br/>
+<br/>
+Unser Angebot enth&auml;lt Links zu externen
+Webseiten Dritter, auf deren Inhalte wir keinen Einfluss haben.
+Deshalb k&ouml;nnen wir f&uuml;r diese fremden Inhalte auch keine
+Gew&auml;hr &uuml;bernehmen. F&uuml;r die Inhalte der verlinkten
+Seiten ist stets der jeweilige Anbieter oder Betreiber der Seiten
+verantwortlich. Die verlinkten Seiten wurden zum Zeitpunkt der
+Verlinkung auf m&ouml;gliche Rechtsverst&ouml;&szlig;e &uuml;berpr&uuml;ft.
+Rechtswidrige Inhalte waren zum Zeitpunkt der Verlinkung nicht
+erkennbar. Eine permanente inhaltliche Kontrolle der verlinkten
+Seiten ist jedoch ohne konkrete Anhaltspunkte einer Rechtsverletzung
+nicht zumutbar. Bei Bekanntwerden von Rechtsverletzungen werden wir
+derartige Links umgehend entfernen.<br/>
+<br/><b>
+Hinweis</b><br/><br/>
+Da
+inhaltliche und sachliche Fehler&nbsp; nicht ausgeschlossen werden
+k&ouml;nnen, erkl&auml;ren die Herausgeber hiermit, dass alle Angaben
+im Sinne der Produkthaftung ohne Garantie erfolgen und keine Haftung
+f&uuml;r jedwede Angaben &uuml;bernommen werden kann.<br/>
+
+
+]]></string>
+    <string name="made_text_start">"Made with"</string>
+    <string name="made_text_end"> in Berlin!</string>
+    <string name="title_activity_over">Über</string>
+    <string name="title_activity_info">Spot</string>
+    <string name="logos">Logos</string>
+    <string name="sort_a_z">Name A-z</string>
+    <string name="sort_">Platzhalter!</string>
+    <string name="title_activity_maps12">Map</string>
+    <string name="accessToken">pk.eyJ1IjoiYW5kcm9pZHBpdGkiLCJhIjoiY2lrNTg1ZmI5MDA3bHY0a3RtNTc0bHh6NiJ9.xc2grqNxvX1ALecnKwZ8Fw</string>
+
+</resources>

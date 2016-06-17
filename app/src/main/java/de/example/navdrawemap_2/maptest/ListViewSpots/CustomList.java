@@ -83,7 +83,6 @@ public class CustomList extends ArrayAdapter<String> {
             return listViewItem;
     }
 
-
     // returns the listview Item by position
     public View getViewByPosition(int pos, ListView listView) {
 

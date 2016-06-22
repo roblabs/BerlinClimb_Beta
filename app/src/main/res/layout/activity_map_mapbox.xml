@@ -2,16 +2,15 @@
     xmlns:mapbox="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    tools:context=".MapMapboxActivity">
+    android:layout_height="match_parent">
 
     <com.mapbox.mapboxsdk.maps.MapView
         android:id="@+id/mapviewmapbox"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         mapbox:access_token="pk.eyJ1IjoiYW5kcm9pZHBpdGkiLCJhIjoiY2lvd3VwamhmMDA4MHZ0a2p0OGJnYnRhNSJ9.fITbznDvS6FhARaYxrW_Pw"
-        mapbox:center_latitude="40.73581"
-        mapbox:center_longitude="-73.99155"
+        mapbox:center_latitude="52.3918003273712"
+        mapbox:center_longitude="13.1341123580933"
         mapbox:style_url="mapbox://styles/mapbox/streets-v9"
         mapbox:zoom="11" />
 

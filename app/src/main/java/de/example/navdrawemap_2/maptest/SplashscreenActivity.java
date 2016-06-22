@@ -8,6 +8,7 @@ import android.os.Handler;
 import android.view.View;
 import android.view.Window;
 
+import de.example.navdrawemap_2.maptest.Maps.MapMapboxActivity;
 import de.example.navdrawemap_2.maptest.Maps.MapsActivity;
 
 public class SplashscreenActivity extends Activity {
@@ -25,7 +26,7 @@ public class SplashscreenActivity extends Activity {
         new Handler().postDelayed(new Runnable() {
             @Override
             public void run() {
-                Intent mainIntent = new Intent(SplashscreenActivity.this, MapsActivity.class);
+                Intent mainIntent = new Intent(SplashscreenActivity.this, MapMapboxActivity.class);
                 ActivityOptions options = ActivityOptions.makeScaleUpAnimation(view, 0 ,
                         0, view.getWidth(), view.getHeight());
                 startActivity(mainIntent, options.toBundle());
